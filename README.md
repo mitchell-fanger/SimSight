@@ -8,3 +8,5 @@
 
 [Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/)
 
+
+SimSight Team: Mitchell Fanger, Paulina Rodriguez, Lope Talacay, Pavel Takmakov, Tina Morrison
