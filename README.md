@@ -8,3 +8,6 @@
 
 [Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/)
 
+
+  [FDA SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED) OFFICE OF DEVICE EVALUATION TEMPLATE] (https://www.fda.gov/media/113810/download)
+SimSight Team: Mitchell Fanger, Paulina Rodriguez, Lope Talacay, Pavel Takmakov, Tina Morrison
